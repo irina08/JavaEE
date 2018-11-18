@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Java_System_Properties>
+    <properties>
+        <property1 name="java_runtime_name">Java(TM) SE Runtime Environment</property1>
+        <property2 name="sun_boot_library_path">/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib</property2>
+        <property3 name="java_vm_version">25.73-b02</property3>
+        <property4 name="gopherProxySet">false</property4>
+        <property5 name="java_vm_vendor">Oracle Corporation</property5>
+        <property6 name="java_vendor_url">http://java.oracle.com/</property6>
+        <property7 name="path_separator">:</property7>
+        <property8 name="java_vm_name">Java HotSpot(TM) 64-Bit Server VM</property8>
+        <property9 name="file_encoding_pkg">sun.io</property9>
+        <property10 name="user_country">US</property10>
+        <property11 name="sun_java_launcher">SUN_STANDARD</property11>
+        <property12 name="sun_os_patch_level">unknown</property12>
+        <property13 name="java_vm_specification_name">Java Virtual Machine Specification</property13>
+        <property14 name="user_dir">/Users/irinagolovko/Desktop</property14>
+        <property15 name="java_runtime_version">1.8.0_73-b02</property15>
+        <property16 name="java_awt_graphicsenv">sun.awt.CGraphicsEnvironment</property16>
+        <property17 name="java_endorsed_dirs">/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/endorsed</property17>
+        <property18 name="os_arch">x86_64</property18>
+        <property19 name="java_io_tmpdir">/var/folders/2z/25505p2s1mx2s16bbxwhrmw80000gn/T/</property19>
+        <property20 name="line_separator">
+</property20>
+        <property21 name="java_vm_specification_vendor">Oracle Corporation</property21>
+        <property22 name="os_name">Mac OS X</property22>
+        <property23 name="sun_jnu_encoding">UTF-8</property23>
+        <property24 name="java_library_path">/Users/irinagolovko/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.</property24>
+        <property25 name="java_specification_name">Java Platform API Specification</property25>
+        <property26 name="java_class_version">52.0</property26>
+        <property27 name="sun_management_compiler">HotSpot 64-Bit Tiered Compilers</property27>
+        <property28 name="os_version">10.12.2</property28>
+        <property29 name="http_nonProxyHosts">local|*.local|169.254/16|*.169.254/16</property29>
+        <property30 name="user_home">/Users/irinagolovko</property30>
+        <property31 name="user_timezone"/>
+        <property32 name="java_awt_printerjob">sun.lwawt.macosx.CPrinterJob</property32>
+        <property33 name="file_encoding">UTF-8</property33>
+        <property34 name="java_specification_version">1.8</property34>
+        <property35 name="java_class_path">.</property35>
+        <property36 name="user_name">irinagolovko</property36>
+        <property37 name="java_vm_specification_version">1.8</property37>
+        <property38 name="sun_java_command">Prop2Xml2</property38>
+        <property39 name="java_home">/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre</property39>
+        <property40 name="sun_arch_data_model">64</property40>
+        <property41 name="user_language">en</property41>
+        <property42 name="java_specification_vendor">Oracle Corporation</property42>
+        <property43 name="awt_toolkit">sun.lwawt.macosx.LWCToolkit</property43>
+        <property44 name="java_vm_info">mixed mode</property44>
+        <property45 name="java_version">1.8.0_73</property45>
+        <property46 name="java_ext_dirs">/Users/irinagolovko/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java</property46>
+        <property47 name="sun_boot_class_path">/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/classes</property47>
+        <property48 name="java_vendor">Oracle Corporation</property48>
+        <property49 name="file_separator">/</property49>
+        <property50 name="java_vendor_url_bug">http://bugreport.sun.com/bugreport/</property50>
+        <property51 name="sun_io_unicode_encoding">UnicodeBig</property51>
+        <property52 name="sun_cpu_endian">little</property52>
+        <property53 name="socksNonProxyHosts">local|*.local|169.254/16|*.169.254/16</property53>
+        <property54 name="ftp_nonProxyHosts">local|*.local|169.254/16|*.169.254/16</property54>
+        <property55 name="sun_cpu_isalist"/>
+    </properties>
+</Java_System_Properties>

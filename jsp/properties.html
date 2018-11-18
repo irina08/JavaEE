@@ -1,0 +1,77 @@
+<!--
+   Author       : student CS211E Irina Golovko
+   Date         : 04/15/2018
+   Homework assignment : # 5 - properties.html
+   jsp File 	: properties.jsp
+   Course       : CS211E 
+   Objective    : This html will work with properties.jsp file:
+                  User can choose  one or more options:
+				  - Show java version - properties.jsp file 
+				  will return java version on user's OS
+ 				  - Show java home directory - properties.jsp 
+				  file will return location of java 'jre' on user's OS
+				  - Show operating system name and version -
+				  properties.jsp file will return system name
+ 				  and system version of user's os. 
+				  - Show user name - properties.jsp file 
+ 				  will return the user name on user's os
+				  - Show user home directory - properties.jsp 
+ 				  file will return user's home directory 
+ 				  on user's os
+ 				  - Show user current director - properties.jsp 
+ 				  file will return in which directory user
+ 	 			  now on his os. 
+-->
+
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<title>System Properties with jsp</title>
+<meta charset=UTF-8>
+<style type="text/css">
+body {background-color:#e6fff5;}	
+#content {margin: 0px auto; width: 400px; border: 0px; 
+padding: 5px 5px 5px 5px; text-align: left;}
+#btn {margin-top: 25px; text-align: center;font-size: 20px; 
+font-weight: bold;}
+#hd2 {color: blue; font-size: 25px;}
+td.tab {font-size: 10pt;  padding: 3px; font-size: 20px;
+color: green; font-weight: bold;}
+</style>	
+</head>
+
+<body>
+<section id="content">	
+<h2 id="hd2">What properties about your operating system do you want to know:</h2>
+<form action="prop.jsp" method="post">
+<table>
+<tr><td class="tab">
+<input type="checkbox" name="property" value="java version">Show java version<br>
+</td></tr>
+<tr><td class="tab">
+<input type="checkbox" name="property" value="java home dir">Show java home directory
+</td></tr>
+<tr><td class="tab">
+<input type="checkbox" name="property" value="os name">Show operating system name and version
+</td></tr>
+<tr><td class="tab">
+<input type="checkbox" name="property" value="user name">Show user name
+</td></tr>
+<tr><td class="tab">
+<input type="checkbox" name="property" value="user home dir">Show user home directory
+</td></tr>
+<tr><td class="tab">
+<input type="checkbox" name="property" value="user current dir">Show user current directory
+</td></tr>
+</table>
+
+<input id="btn" type="submit" value="Submit">
+
+</form>
+</section>
+</body>
+</html>
+
+
+
+

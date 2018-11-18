@@ -1,0 +1,3 @@
+url=jdbc:oracle:thin:@//dunes.ccsf.edu:1521/orcl.ccsf.edu
+userN=igolovko
+passwd=qaz123qaz

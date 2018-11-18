@@ -1,0 +1,3 @@
+url=jdbc:mysql://localhost:3306/sonoo?useSSL=false
+userN=root
+passwd=root
